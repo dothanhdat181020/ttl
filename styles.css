@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+.container{
+    width: 1000x;
+    padding: 10px;
+}
+pre{
+    color: white;
+    animation: doimau 50s infinite;
+    width: 500px;
+    
+}
+@keyframes doimau{
+    0%{
+        color: tomato;
+    }
+    25%{
+        color: violet;
+    }
+    50%{
+        color: skyblue;
+    }
+    75%{
+        color:  gold;
+    }
+    100%{
+        color: chartreuse;
+    }
+}
+h4{
+    width: 500px;
+}
+a{
+    color: wheat;
+    text-decoration: none;
+    /* style="text-decoration: none" */
+}
