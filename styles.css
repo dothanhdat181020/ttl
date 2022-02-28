@@ -38,7 +38,7 @@ a{
     /* style="text-decoration: none" */
 }
 body{
-    background-image: url("giphy1.gif");
+    background-image: url("./giphy1.gif");
     background-position:top;
     background-size: cover;
     background-repeat: no-repeat;
