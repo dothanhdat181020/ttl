@@ -37,3 +37,9 @@ a{
     text-decoration: none;
     /* style="text-decoration: none" */
 }
+body{
+    background-image: url("./giphy.gif");
+    background-position:top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
